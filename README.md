@@ -23,5 +23,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ![SLUI](https://user-images.githubusercontent.com/95842420/175750158-6a8b8c37-3a8f-4886-b2c2-a7099655759a.gif)
 
 # GitHub
+https://github.com/olivialammam/social-network-api
 
 # Walkthrough Video
