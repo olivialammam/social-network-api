@@ -27,9 +27,10 @@ const thoughtSchema = new Schema({
     }
 );
 
-reactionSchema.virtual('reactionCount').get(() => {
-    return this.reaction.length
-})
+// console.log(this.reaction)
+// thoughtSchema.virtual('reactionCount').get(() => {
+//     return this.reaction.length
+// })
 
 const Thought = model('Thought', thoughtSchema);
 
